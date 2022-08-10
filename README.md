@@ -1,5 +1,5 @@
 # clone_wordle
 wordle clonning practice
 
-# copy right
+# source
 https://github.com/kubowania/wordle-javascript
