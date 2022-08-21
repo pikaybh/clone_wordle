@@ -38,4 +38,5 @@ Copy the path to this file and paste it in your browser to see the game and play
 ### MIT Licence
 
 Copyright (c) 2020 Ania Kubow
+
 https://github.com/kubowania/wordle-javascript
